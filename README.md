@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Epidemiologist at the Washington State Department of Health
-- I help build data dashboards
+- Epidemiologist at the Washington State Department of Health 🌲
+- I help build data dashboards 💪
 
 ### Check out our data dashboards!
 - **COVID-19**: https://doh.wa.gov/emergencies/covid-19/data-dashboard
