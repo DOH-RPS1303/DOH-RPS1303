@@ -5,6 +5,7 @@
 
 ### Check out our data dashboards!
 - **COVID-19**: https://doh.wa.gov/emergencies/covid-19/data-dashboard
+<img src="https://github.com/Russell-Shean/Taiwan_COVID-19/raw/main/Graphs_and_GIFS/quanguo_inc.gif" width="400" height="auto" />
 
 
 
