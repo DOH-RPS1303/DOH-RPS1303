@@ -4,7 +4,7 @@
 - I help build data dashboards
 
 ### Check out our data dashboards!
-- *COVID-19*: https://doh.wa.gov/emergencies/covid-19/data-dashboard
+- **COVID-19**: https://doh.wa.gov/emergencies/covid-19/data-dashboard
 
 
 
