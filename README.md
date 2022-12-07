@@ -6,6 +6,7 @@
 ### Check out our data dashboards!
 - **COVID-19**:  <a href="https://doh.wa.gov/emergencies/covid-19/data-dashboard" target="_blank" rel="noreferrer noopener">https://doh.wa.gov/emergencies/covid-19/data-dashboard</a>  
 <img src="https://github.com/DOH-RPS1303/DOH-RPS1303/blob/3798a7cbaf7f937cf65f173ae3310095e5afe9f3/Screenshot%202022-12-02%20at%2012-19-13%20COVID-19%20Data%20Dashboard.png" width="500" height="auto" />
+
 - **MPox** :  <a href="https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox/monkeypox-mpv-data" target="_blank" rel="noreferrer noopener">https://doh.wa.gov/you-and-your-family/illness-and-disease-z/monkeypox/monkeypox-mpv-data</a>  
 <img src="https://github.com/DOH-RPS1303/DOH-RPS1303/blob/main/Screenshot%202022-12-07%20at%2008-28-17%20Monkeypox%20(MPV)%20Data.png?raw=true" width="500" height="auto" />
 
