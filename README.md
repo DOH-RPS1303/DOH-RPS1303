@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- Epidemiologist/data scientist at the Washington State Department of Health 🌲
+- Epidemiologist at the Washington State Department of Health 🌲
 - I help build data dashboards 💪
 
 ### Check out our data dashboards!
