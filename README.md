@@ -7,7 +7,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOH-RPS1303&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?organization=DOH-EPI-Coders&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOH-EPI-Coders&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Check out our data dashboards!
