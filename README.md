@@ -3,9 +3,9 @@
 - Epidemiologist at the Washington State Department of Health 🌲
 - I help build data dashboards 💪
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOH-RPS1303)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DOH-RPS1303&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOH-RPS1303)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOH-RPS1303&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Check out our data dashboards!
 - **COVID-19**:  <a href="https://doh.wa.gov/emergencies/covid-19/data-dashboard" target="_blank" rel="noreferrer noopener">https://doh.wa.gov/emergencies/covid-19/data-dashboard</a>  
