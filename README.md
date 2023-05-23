@@ -7,6 +7,9 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DOH-RPS1303&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?organizationDOH-EPI-Coders&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Check out our data dashboards!
 - **COVID-19**:  <a href="https://doh.wa.gov/emergencies/covid-19/data-dashboard" target="_blank" rel="noreferrer noopener">https://doh.wa.gov/emergencies/covid-19/data-dashboard</a>  
 <img src="https://github.com/DOH-RPS1303/DOH-RPS1303/raw/main/Screenshot%202022-12-02%20at%2012-19-13%20COVID-19%20Data%20Dashboard.png" width="500" height="auto" />
